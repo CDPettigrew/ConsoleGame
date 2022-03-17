@@ -1,0 +1,8 @@
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\obj\Debug\HangManGame (Chris and Victor).csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\obj\Debug\HangManGame (Chris and Victor).csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\obj\Debug\HangManGame (Chris and Victor).csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\bin\Debug\HangManGame (Chris and Victor).exe.config
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\bin\Debug\HangManGame (Chris and Victor).exe
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\bin\Debug\HangManGame (Chris and Victor).pdb
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\obj\Debug\HangManGame (Chris and Victor).exe
+C:\ElevenFiftyProjects\Assignments\HangManGame (Chris and Victor)\HangManGame (Chris and Victor)\obj\Debug\HangManGame (Chris and Victor).pdb
